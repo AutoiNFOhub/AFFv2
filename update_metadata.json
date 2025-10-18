@@ -1,7 +1,7 @@
 {
-  "version": "2.21",
+  "version": "2.20",
   "release_date": "2025-10-20",
-  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.21.exe",
+  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.20.exe",
   "changelog": [
     {"category": "Новое", "changes": ["Теперь кэш загружается с сервера."]},
     "Добавлена информация о профиле.",
