@@ -1,13 +1,10 @@
 {
-  "version": "2.20",
-  "release_date": "2025-10-20",
-  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.20.exe",
+  "version": "2.21",
+  "release_date": "2025-10-28",
+  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.21.exe",
   "changelog": [
-    {"category": "Новое", "changes": ["Теперь кэш загружается с сервера."]},
-    "Добавлена информация о профиле.",
-    "Двойной клик на файл - скачивание.",
-    "Двойной клик на текстовый файл *.txt - предпросмотр.",
-    "Автоматическое обновление программы."
+    {"category": "Новое", "changes": ["Добавлена темная тема"]},
+    "Экспериментальная функция воспроизведения видео"
     
     
   ]
