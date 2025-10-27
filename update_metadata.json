@@ -4,7 +4,7 @@
   "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.21.exe",
   "changelog": [
     {"category": "Новое", "changes": ["Добавлена темная тема"]},
-    "Экспериментальная функция воспроизведения видео"
+    "Экспериментальная функция воспроизведения потокового видео, требуется VLC player "
     
     
   ]
