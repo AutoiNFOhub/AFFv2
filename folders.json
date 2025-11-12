@@ -1,4 +1,5 @@
 [
+    {"name": "AUTO", "url": "https://disk.yandex.ru/d/7RdpTGCn3HXjz2"},
     {"name": "FLASHDATEN_2025", "url": "https://disk.yandex.ru/d/v1JtTIbalQN-Nw"},
     {"name": "VAG_PCMFLASH", "url": "https://disk.yandex.ru/d/fenVuOaok09yLQ"},
     {"name": "MIB_OCU3_ICAS_ZFAS", "url": "https://disk.yandex.ru/d/ybf26zc3_A4YBg"},
@@ -9,7 +10,6 @@
     {"name": "MANUAL", "url": "https://disk.yandex.ru/d/6dqlXBceiWpclw"},
     {"name": "ВИДЕОКУРСЫ", "url": "https://disk.yandex.ru/d/7aSeT2mbNwOhKA"},
     {"name": "ДИАГНОСТИКА", "url": "https://disk.yandex.ru/d/wJgByYMdKwiHOg"},
-    {"name": "AUTO", "url": "https://disk.yandex.ru/d/7RdpTGCn3HXjz2"},
     {"name": "ПРЕДУСТАНОВЛЕННОЕ ПО", "url": "https://disk.yandex.ru/d/5brnVdaE5GSSZQ"}
    
     
@@ -17,6 +17,7 @@
    
    
 ]
+
 
 
 
