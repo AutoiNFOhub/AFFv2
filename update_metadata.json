@@ -1,9 +1,9 @@
 {
-  "version": "2.24",
-  "release_date": "2025-11-19",
-  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.24.exe",
+  "version": "2.25",
+  "release_date": "2025-11-26",
+  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.25.exe",
   "changelog": [
-    {"category": "Новое", "changes": ["Технические изминения в версии 2.24"]},
+    {"category": "Новое", "changes": ["Технические изминения в версии 2.25"]},
     {"category": "История изминений версии 2.23", "changes": []},
     "В профиле отображается доступное количество устройств для аккаунта ",
     "HWID больше не меняется при подключении USB‑накопителей.",
