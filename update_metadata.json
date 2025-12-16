@@ -1,9 +1,10 @@
 {
-  "version": "2.25",
-  "release_date": "2025-11-26",
-  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.25.exe",
+  "version": "2.26",
+  "release_date": "2026-12-16",
+  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.26.exe",
   "changelog": [
-    {"category": "Новое", "changes": ["Решение слета HWID в некоторых случаях в версии 2.25"]},
+    {"category": "Новое", "changes": ["Add English language"]},
+    {"category": "Новое", "changes": ["Добавлены генераторы для Renaul Can Clip ,Toyota Techstream V18"]},
     {"category": "История изминений версии 2.23", "changes": []},
     "В профиле отображается доступное количество устройств для аккаунта ",
     "HWID больше не меняется при подключении USB‑накопителей.",
