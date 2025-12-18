@@ -1,7 +1,7 @@
 {
-  "version": "2.26",
-  "release_date": "2026-12-16",
-  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.26.exe",
+  "version": "2.27",
+  "release_date": "2026-12-18",
+  "download_url": "https://tunemarket-files.s3.regru.cloud/AutoFlashFinder_Setup_2.27.exe",
   "changelog": [
     {"category": "Новое", "changes": ["Add English language "]},
     {"category": "Новое", "changes": ["Добавлен раздел утилиты. Генератор SDD перенесен в этот раздел,так же добавлены генераторы для Renault Can Clip ,Toyota Techstream V18 "]},
